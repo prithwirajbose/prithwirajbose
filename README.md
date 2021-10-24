@@ -1,1 +1,1 @@
-Hi this is Prithwiraj Bose. I am a Technical Architect at TATA Consultancy Services. I'm a programming enthuciast and electronics hobbyist. I actively contribute to Open Source Projects. Visit my website (sribasu.com) [https://sribasu.com]
+Hi this is Prithwiraj Bose. I am a Technical Architect at TATA Consultancy Services. I'm a programming enthuciast and electronics hobbyist. I actively contribute to Open Source Projects. Visit my website [sribasu.com](https://sribasu.com)
